@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "./assets/kitty.png",
+      "name": "고양이 기타",
+      "address": "부산 기장군 가락동"
+    },
+    {
+      "id": 2,
+      "img": "./assets/AirPod.png",
+      "name": "완전 새 에어팟",
+      "address": "부산 양정동"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 4,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 5,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 6,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 7,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 8,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 9,
+      "img": "",
+      "name": "",
+      "address": ""
+    },
+    {
+      "id": 10,
+      "img": "",
+      "name": "",
+      "address": ""
+    }
+  ]
+}
