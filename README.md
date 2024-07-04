@@ -39,7 +39,7 @@ chore : 그 외 자잘한 수정 <br />
 
 ![www daangn com_fleamarket_](https://github.com/insertcourse24/daangn-clone/assets/128461588/51f1e7b8-cbf7-45f9-884e-3f579a8d72ad)
 7. header에 "중고거래"는 주황색이 되도록 합니다. <br />
-8. 중고거래 인기 매물은 data.json파일의 데이터를 map을 이용해 개발하도록 합니다. <br />
+8. 중고거래 인기 매물은 data.json파일의 데이터를 사용해 개발하도록 합니다. <br />
 9. header에 "당근" 로고 위 마우스를 올렸을 때 마우스 커서는 "포인터"가 되도록 합니다. <br />
 10. header에 "당근" 로고를 누르면 첫 번째 사진, 즉 메인페이지로 이동하도록 합니다. <br />
 
