@@ -1,5 +1,28 @@
+.ibm-plex-sans-kr-regular {
+  font-family: "IBM Plex Sans KR", sans-serif;
+  font-weight: 650;
+  font-style: normal;
+  font-size : 45px;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+header {
+  background-color : white;
+  height : 65px;
+}
+
+main {
+  background-color : #FFFAE0;
+  height : 3790px;
+}
+
+#container {
+  padding-left : 200px;
+  padding-top : 228px;
+  
 }
