@@ -3,6 +3,12 @@
   font-weight: 650;
   font-style: normal;
   font-size : 45px;
+  line-height : 1.5;
+}
+
+.nanum-gothic-regular {
+  font-family: "Nanum Gothic", sans-serif;
+  font-style: normal;
 }
 
 * {
@@ -16,17 +22,32 @@ header {
   height : 65px;
 }
 
+.headinfo {
+  margin : 5px 135px 5px 120px;
+}
+
 main {
+  position : relative;
   background-color : #FFFAE0;
   height : 3790px;
 }
 
-#container {
-  padding-left : 200px;
+#text-box {
+  padding-left : 205px;
   padding-top : 228px;
   
 }
 
 p {
   color : gray;
+  font-size : 20px;
+  line-height : 1.5;
+}
+
+.mascot {
+  position : absolute;
+  bottom : 0;
+  right : 45px;
+  top : 1px;
+ 
 }
