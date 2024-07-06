@@ -23,15 +23,24 @@ header {
 }
 
 .headinfo {
+  position : relative;
   margin : 5px 135px 5px 120px;
 }
 
-#headbutton {
+.headbutton {
+  margin : 5px 135px 5px 120px;
+  height : 50px;
+}
+
+#headclick {
   width : 100px;
   height : 50px;
-  background-color : gray;
+  color : gray;
   text-align : center;
-  padding : 16px 0px;
+  padding : 12px 0px;
+  position : absolute;
+  top : 5px;
+  font-size : 20px;
 }
 
 .scrollbar {
@@ -64,4 +73,27 @@ p {
   right : 45px;
   top : 1px;
  
+}
+
+#downloadbutton {
+  position : relative;
+  width : 180px;
+  height : 55px;
+  background-color : #FF6F0F;
+  border-radius : 10px;
+  float : left;
+  margin-right : 18px; 
+}
+
+#downloadbuttonpicture {
+  padding : 13px 0px 0px 12px;
+}
+
+#downloadbuttonwrite {
+  font-size : 20px;
+  text-align : center;
+  color : white;
+  position : absolute;
+  top : 17px;
+  right : 26px;
 }
