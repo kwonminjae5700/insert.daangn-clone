@@ -6,9 +6,20 @@
   line-height : 1.5;
 }
 
+.fleamarket_ibm-plex-sans-kr-regular {
+  font-family: "IBM Plex Sans KR", sans-serif;
+  font-weight: 650;
+  font-style: normal;
+  font-size : 35px;
+  line-height : 1.5;
+}
+
 .nanum-gothic-regular {
   font-family: "Nanum Gothic", sans-serif;
   font-style: normal;
+  color : gray;
+  font-size : 18px;
+  line-height : 1.5;
 }
 
 * {
@@ -100,12 +111,6 @@ header {
   
 }
 
-p {
-  color : gray;
-  font-size : 20px;
-  line-height : 1.5;
-}
-
 .mascot {
   position : absolute;
   bottom : 0;
@@ -139,12 +144,23 @@ p {
 
 .mainfleainfo {
   background-color : #FFF1AA;
-  height: 315px;
+  height: 380px;
+  position : relative;
 }
 
 .mainfleacontainer {
   margin : 0px 335px 0px 335px;
-  background-color : red;
   height : 315px;
-  padding : 100px 0px 100px 0px;
+  padding : 112px 0px 100px 0px;
+}
+
+.fleamarket_p {
+  font-size : 18px;
+  line-height : 1.4;
+}
+
+.fleamarket_picture {
+  position : absolute;
+  top : 65px;
+  right : 280px
 }
