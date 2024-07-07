@@ -22,28 +22,66 @@ header {
   height : 65px;
 }
 
-.headinfo {
+.header_container {
   position : relative;
   margin : 5px 135px 5px 120px;
 }
 
-.headbutton {
+.headButton {
   margin : 5px 135px 5px 120px;
   height : 50px;
 }
 
 #headclick {
-  width : 100px;
-  height : 50px;
   color : gray;
   text-align : center;
-  padding : 12px 0px;
   position : absolute;
+  padding : 12px 0px;
   top : 5px;
   font-size : 20px;
 }
 
-.scrollbar {
+#headclick2 {
+  color : gray;
+  text-align : center;
+  position : absolute;
+  padding : 12px 0px;
+  left : 220px;
+  top : 5px;
+  font-size : 20px;
+}
+
+#headclick3 {
+  color : gray;
+  text-align : center;
+  position : absolute;
+  padding : 12px 0px;
+  left : 320px;
+  top : 5px;
+  font-size : 20px;
+}
+
+#headclick4 {
+  color : gray;
+  text-align : center;
+  position : absolute;
+  padding : 12px 0px;
+  left : 390px;
+  top : 5px;
+  font-size : 20px;
+}
+
+#headclick5 {
+  color : gray;
+  text-align : center;
+  position : absolute;
+  padding : 12px 0px;
+  left : 480px;
+  top : 5px;
+  font-size : 20px;
+}
+
+.scroll_bar {
   position : fixed;
   width : 100%;
   top : 0;
@@ -76,7 +114,7 @@ p {
  
 }
 
-#downloadbutton {
+#downloadButton {
   position : relative;
   width : 180px;
   height : 55px;
@@ -86,15 +124,27 @@ p {
   margin-right : 18px; 
 }
 
-#downloadbuttonpicture {
+#download_picture {
   padding : 13px 0px 0px 12px;
 }
 
-#downloadbuttonwrite {
+#download_write {
   font-size : 20px;
   text-align : center;
   color : white;
   position : absolute;
   top : 17px;
   right : 26px;
+}
+
+.mainfleainfo {
+  background-color : #FFF1AA;
+  height: 315px;
+}
+
+.mainfleacontainer {
+  margin : 0px 335px 0px 335px;
+  background-color : red;
+  height : 315px;
+  padding : 100px 0px 100px 0px;
 }
