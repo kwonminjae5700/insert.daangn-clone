@@ -38,6 +38,14 @@
   line-height : 1.5;
 }
 
+.p-nanum-gothic-regular {
+  font-family: "Nanum Gothic", sans-serif;
+  font-style: light;
+  color : #7c7c7c;
+  font-size : 12px;
+  line-height : 1.5;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -52,7 +60,7 @@
 
 .container-white {
   position : relative;
-  background-color : white;
+  background-color : #f9f9f9;
   height : 750px;
 }
 
@@ -60,6 +68,18 @@
   position  : absolute;
   top : 245px;
   right : 300px;
+}
+
+.container-red {
+  position : relative;
+  background-color : #fff8f1;
+  height : 750px;
+}
+
+.container-text-red {
+  position  : absolute;
+  top : 194px;
+  left : 220px;
 }
 
 header {
@@ -236,7 +256,7 @@ header {
   position : relative;
   height : 750px;
   width: 655px;
-  top : 52px;
+  top : 38px;
   left : 180px
 
 }
@@ -259,4 +279,30 @@ header {
   padding : 14px 0px 0px 0px;
   display : inline-block;
   margin-left : 10px;
+}
+
+.main_vPicture {
+  position : absolute;
+  height : 750px;
+  width: 655px;
+  top : 30px;
+  right : 190px;
+}
+
+#village_info {
+  width : 120px;
+  height : 150px;
+  display : inline-block;
+}
+
+#village_info_left {
+  width : 120px;
+  height : 150px;
+  display : inline-block;
+  margin-left : 10px;
+}
+
+#village_text {
+  padding-top : 8px;
+  padding-left : 3px;
 }
