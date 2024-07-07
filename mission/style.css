@@ -22,6 +22,14 @@
   line-height : 1.5;
 }
 
+.nanum-gothic-regular-orange {
+  font-family: "Nanum Gothic", sans-serif;
+  font-style: bolder;
+  color : #FF6F0F;
+  font-size : 18px;
+  line-height : 1.5;
+}
+
 .head-nanum-gothic-regular {
   font-family: "Nanum Gothic", sans-serif;
   font-style: light;
@@ -40,6 +48,18 @@
   position : relative;
   background-color : #FFFAE0;
   height : 760px;
+}
+
+.container-white {
+  position : relative;
+  background-color : white;
+  height : 750px;
+}
+
+.container-text {
+  position  : absolute;
+  top : 228px;
+  right : 265px;
 }
 
 header {
@@ -209,6 +229,15 @@ header {
   right : 130px;
   top : 8px;
   border-width : 0px;
+
+}
+
+.main_tmpPicture {
+  position : relative;
+  height : 750px;
+  width: 655px;
+  top : 52px;
+  left : 200px
 
 }
 
