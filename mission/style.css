@@ -36,6 +36,12 @@
   box-sizing: border-box;
 }
 
+.container-yellow {
+  position : relative;
+  background-color : #FFFAE0;
+  height : 760px;
+}
+
 header {
   background-color : white;
   height : 65px;
@@ -108,8 +114,6 @@ header {
 }
 
 .indexcontainer {
-  position : relative;
-  background-color : #FFFAE0;
   height : 3790px;
 }
 
