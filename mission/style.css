@@ -241,10 +241,10 @@ header {
 .head_search {
   border-radius : 5px;
   background-color : #e9ecef;
-  width : 180px;
+  width : 250px;
   height : 40px;
-  text-align : center;
-  padding : 2px 0px 0px 0px;
+  text-align : left;
+  padding : 2px 0px 0px 16px;
   position : absolute;
   right : 130px;
   top : 8px;
