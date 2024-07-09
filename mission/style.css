@@ -60,6 +60,7 @@
 .footer_d {
   height : 620px;
   background-color : white;
+  position : relative;
 }
 
 .footer_text {
@@ -291,6 +292,16 @@ header {
   margin-right : 18px; 
 }
 
+#downloadButton-black {
+  position : relative;
+  width : 180px;
+  height : 55px;
+  background-color : #f2f3f6;
+  border-radius : 10px;
+  float : left;
+  margin-right : 18px; 
+}
+
 #download_picture {
   padding : 13px 0px 0px 12px;
 }
@@ -299,6 +310,15 @@ header {
   font-size : 20px;
   text-align : center;
   color : white;
+  position : absolute;
+  top : 17px;
+  right : 26px;
+}
+
+#download_write-black {
+  font-size : 20px;
+  text-align : center;
+  color : black;
   position : absolute;
   top : 17px;
   right : 26px;
@@ -439,4 +459,10 @@ header {
 
 .footer_text_ul {
   display: flex;
+}
+
+.footer_text_div {
+  position : absolute;
+  top : 20px;
+  right : 280px;
 }
