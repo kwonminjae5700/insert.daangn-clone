@@ -1,1 +1,2 @@
-// 화이팅..
+const json_url = "../data.json";
+
