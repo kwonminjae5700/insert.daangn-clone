@@ -352,6 +352,12 @@ header {
   padding : 74px 0px 0px 0px;
 }
 
+.fleamarket_h3 {
+  text-align : center;
+  padding : 30px 0px 0px 0px;
+  text-decoration : underline;
+}
+
 .fleamarket_container {
   height : 2210px;
 }
@@ -465,4 +471,18 @@ header {
   position : absolute;
   top : 20px;
   right : 280px;
+}
+
+.flea_box {
+  width : 757px;
+  height : 1542px;
+  margin : 30px auto;
+}
+
+.item {
+  display : inline-block;
+  margin-right : 26px;
+  width : 223px;
+  height : 339px;
+  line-height : 26px
 }
